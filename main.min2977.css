@@ -1,0 +1,109 @@
+.grey-bg {
+    background-color: #f6f6f6 !important;
+}
+.container-mid {
+    max-width: 1280px;
+    margin: 0 auto;
+    width: 98%;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+@media (min-width: 1500px) {
+    .container-mid {
+        max-width: 1801px;
+    }
+}
+.tjrow,
+.row {
+    margin-left: -8px;
+    margin-right: -8px;
+}
+.section-css-slider {
+    white-space: nowrap;
+    overflow-x: auto;
+}
+.new-tractor-block {
+    flex: 0 0 20%;
+    max-width: 20%;
+}
+.container, .tjcol, .col, .col-1, .col-10, .col-11, .col-12, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-auto, .col-lg, .col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-auto, .col-md, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-auto, .col-sm, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-auto, .col-xl, .col-xl-1, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-auto {
+    padding-left: 8px;
+    padding-right: 8px;
+}
+.new-tractor-main {
+    background-color: #c8c2c27a;
+}
+.b-t-1 {
+    border-top: 1px solid #ececec;
+}
+.box-shadow {
+    box-shadow: 0 1px 2px rgba(36, 39, 44, 0.15);
+}
+.text-center {
+    text-align: center !important;
+}
+.new-tractor-main .new-tractor-content {
+    padding: 15px 10px;
+}
+.b-t-1 {
+    border-top: 1px solid #ececec;
+}
+a:hover {
+    color: #49893a;
+    text-decoration: none;
+    transition: 0.2s all;
+}
+a.weblink {
+    color: #040404;
+}
+.new-tractor-main .new-tractor-content h5 {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    font-size: 15px;
+    margin-bottom: 0;
+}
+html[lang="en"] body h1, html[lang="en"] body h2, html[lang="en"] body h3, html[lang="en"] body h4, html[lang="en"] body h5, html[lang="en"] body h6 {
+    font-family: "tj-bold";
+}
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+    letter-spacing: 0.4px;
+}
+.new-tractor-main .new-tractor-anchor {
+    justify-content: space-between;
+}
+.new-tractor-main .new-tractor-anchor .anchor-price {
+    background-color: #f6f7f9;
+    flex: 0 0 100%;
+    max-width: 100%;
+    line-height: 33px;
+    padding: 0 10px;
+    text-transform: capitalize;
+    border-radius: 23px;
+}
+html[lang="en"] body .boldfont {
+    font-family: "tj-bold";
+    letter-spacing: 0.4px;
+}
+.tractor_initiate {
+    background-color: #372641 !important;
+    color: #fff !important;
+    line-height: 38px !important;
+}
+.viewall {
+    position: relative;
+}
+a.d-inline-block.boldfont.px-3 {
+    border: 1px solid #000000;
+    line-height: 36px;
+    color: #000000;
+    border-radius: 3px;
+    font-family: tj-bold;
+    letter-spacing: 0.4px;
+}
+.viewall a:hover, .viewall span:hover {
+    background-color: #707039;
+    color: #fff;
+    cursor: pointer;
+}
